@@ -3,7 +3,7 @@
 ### 🎓 Haqqımda
 - 🏫 **Bakı Dövlət Universiteti** | SABAH qrupları, Kompüter Elmləri
 - 📈 Cari ÜOMG: **87.35**
-- 🎯 Məqsədim 2027-ci ildə xaricdə **Data Science** və ya **AI** üzrə magistr təhsili almaqdır
+- 🎯 Məqsədim 2027-ci ildə xaricdə **Data Science** və ya **AI** üzrə magistr təhsili almaqdır və yaxın aylarda Pl-300 Power Bi sertifikatı almaqdır.
 
 ### 🛠 Texniki Bacarıqlar
 
@@ -28,4 +28,11 @@
 
 ### 📊 GitHub Statistikam
 <p align="left">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=Orxan299&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Əlaqə
+- 💼 [LinkedIn Profilim](www.linkedin.com/in/orxan-mirzəyev-a3033437a)
+- 📧 Email: orxanm509@sabah.edu.az

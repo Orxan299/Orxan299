@@ -7,7 +7,7 @@
 
 ### 🛠 Texniki Bacarıqlar
 
-#### 📊 Data Science & Backend
+#### 📊 Data Science | Aspiring Data Analyst | SQL • Python • Power BI • Excel (MO-211)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/sql.html)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)

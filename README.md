@@ -27,10 +27,12 @@
 - 📊 **Power BI:** Satış məlumatlarının analitika layihəsi üzərində işləyirəm
 - 🐍 **Python:** Pandas və NumPy modulları ilə məlumatların emalı
 
-📊 GitHub Statistikam
-![Orxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orxan299&show_icons=true&theme=transparent&rank_icon=github&border_radius=10)
----
+### 📊 GitHub Statistikam
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Orxan299&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+---
 ### 📫 Əlaqə
 - 💼 [LinkedIn Profilim](www.linkedin.com/in/orxan-mirzəyev-a3033437a)
 - 📧 Email: orxanm509@sabah.edu.az

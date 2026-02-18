@@ -2,7 +2,8 @@
 
 ### 🎓 Haqqımda
 - 🏫 **Bakı Dövlət Universiteti** | SABAH qrupları, Kompüter Elmləri
-- 📈 Cari ÜOMG: **87.35**
+- 📈 ÜOMG: **87.35**
+- 📈 Cari ÜOMG **89.51**
 - 🎯 Məqsədim 2027-ci ildə xaricdə **Data Science** və ya **AI** üzrə magistr təhsili almaqdır və yaxın aylarda Pl-300 Power Bi sertifikatı almaqdır.
 
 ### 🛠 Texniki Bacarıqlar

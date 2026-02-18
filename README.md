@@ -34,5 +34,5 @@
 
 ---
 ### 📫 Əlaqə
-- 💼 [LinkedIn Profilim]([www.linkedin.com/in/orxan-mirzəyev-a3033437a](https://www.linkedin.com/in/orxan-mirzəyev-a3033437a))
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/orxan-mirz%C9%99yev-a3033437a)
 - 📧 Email: orxanm509@sabah.edu.az

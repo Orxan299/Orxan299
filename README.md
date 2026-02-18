@@ -33,7 +33,7 @@
 - 🏭 **[Proseslərin İdarə Edilməsi](https://orxan299.github.io/Process-Management-Analysis/)** - Sənaye prosesləri və ESG göstəricilərinin analizi.
 - 🌐 **[NFT Marketplace UI](https://orxan299.github.io/NFT-Marketplace-Frontend/)** - HTML/CSS və JS ilə hazırlanmış responsiv veb interfeys.
 - 👥 **[HR Analitika](https://orxan299.github.io/HR-Analytics-PowerBI/)** - İnsan Resursları və Maaş Analizi
-
+- 💳 **[Banking-Credit-Analysis](https://orxan299.github.io/Banking-Credit-Analysis/)**  - 400M+ AZN kredit portfelinin analizi və faiz dərəcələrinə təsir edən AI faktorlarının (Key Influencers) tədqiqi.
 🌐 Front-end: NFT Marketplace UI
 
 ### 📊 GitHub Statistikam

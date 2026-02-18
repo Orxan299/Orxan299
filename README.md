@@ -26,11 +26,16 @@
 - 📜 **Microsoft Office Specialist:** Excel Expert Mo-211
 - 📊 **Power BI:** Satış məlumatlarının analitika layihəsi üzərində işləyirəm
 - 🐍 **Python:** Pandas və NumPy modulları ilə məlumatların emalı
+- 📊 [Data Analitika]: Birmarket Satış Analizi
+ 🏭 [Əməliyyatların Analizi]:(https://orxan299.github.io/Process-Management-Analysis/)
+
+🌐 Front-end: NFT Marketplace UI
 
 ### 📊 GitHub Statistikam
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Orxan299&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
 
 ---
 ### 📫 Əlaqə

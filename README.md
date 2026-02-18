@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salam, mən Orxan! 👋
 
-<!--
-**Orxan299/Orxan299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Təhsil və Nailiyyətlər
+- 📍 **Bakı Dövlət Universiteti** | SABAH qrupları | Kompüter Elmləri
+- 📑 **Microsoft Office Specialist: Excel Expert MO-211** sertifikatım var
 
-Here are some ideas to get you started:
+### 🛠 Texniki Bacarıqlarım
+- **Dillər:** Python (Pandas, NumPy), SQL
+- **Alətlər:** Power BI (Sales Data Analysis layihələri), Advanced Excel
+- **Maraq dairəm:** Data Science və Süni İntellekt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Gələcək Hədəf
+- 2027-ci ildə xaricdə **Data Science** və ya **AI** üzrə magistr təhsili almağı planlaşdırıram.
+
+### 📊 GitHub Statistikam
+![Orxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orxan299&show_icons=true&theme=dark)
+
+---
+
+### 📫 Əlaqə
+- 📧 Email: orxanm509@sabah.edu.az
+- 💼 [LinkedIn Profilim](www.linkedin.com/in/orxan-mirzəyev-a3033437a)

@@ -43,6 +43,11 @@
 
 
 ---
-### 📫 Əlaqə
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/orxan-mirz%C9%99yev-a3033437a)
-- 📧 Email: orxanm509@sabah.edu.az
+---
+
+### 📄 Rezyume və Əlaqə
+- 📥 **[Mənim CV-mi yüklə (PDF)](Orxan_Mirzayev_CV.pdf)**
+- 💼 **[LinkedIn Profilim](www.linkedin.com/in/orxan-mirzəyev-a3033437a)**
+- 📧 **Email:** orxanm509@sabah.edu.az
+
+---

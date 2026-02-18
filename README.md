@@ -6,21 +6,26 @@
 - 🎯 Məqsədim 2027-ci ildə xaricdə **Data Science** və ya **AI** üzrə magistr təhsili almaqdır
 
 ### 🛠 Texniki Bacarıqlar
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 📊 **Data Analitika:** Pandas, NumPy, SQL, Power BI
-- 📜 **Sertifikat:** Microsoft Office Specialist: Excel Expert Mo-211
-- 📑 **Layihələr:** Power BI ilə satış məlumatlarının analizi üzərində işləyirəm
+#### 📊 Data Science & Backend
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/sql.html)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
+#### 🌐 Web Development
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+### 📑 Sertifikatlar və Layihələr
+- 📜 **Microsoft Office Specialist:** Excel Expert Mo-211
+- 📊 **Power BI:** Satış məlumatlarının analitika layihəsi üzərində işləyirəm
+- 🐍 **Python:** Pandas və NumPy modulları ilə məlumatların emalı
 
 ### 📊 GitHub Statistikam
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orxan299&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-### 📫 Əlaqə
-- 💼 [LinkedIn Profilim](www.linkedin.com/in/orxan-mirzəyev-a3033437a)
-- 📧 Email: orxanm509@sabah.edu.az
+  <img src="

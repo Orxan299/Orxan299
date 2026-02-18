@@ -31,7 +31,7 @@
 📂 Portfelim (Canlı Layihələr)
 - 📊 **[Birmarket Satış Analizi](https://orxan299.github.io/Sales-Analysis-PowerBI/)** - Power BI vasitəsilə satış və itki analizi.
 - 🏭 **[Proseslərin İdarə Edilməsi](https://orxan299.github.io/Process-Management-Analysis/)** - Sənaye prosesləri və ESG göstəricilərinin analizi.
-- 🌐 **[NFT Marketplace UI]([https://orxan299.github.io/NFT-Marketplace-Frontend/](https://orxan299.github.io/NFT-Marketplace-Frontend/))** - HTML/CSS və JS ilə hazırlanmış responsiv veb interfeys.
+- 🌐 **[NFT Marketplace UI](https://orxan299.github.io/NFT-Marketplace-Frontend/)** - HTML/CSS və JS ilə hazırlanmış responsiv veb interfeys.
 
 🌐 Front-end: NFT Marketplace UI
 

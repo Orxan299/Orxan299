@@ -46,7 +46,7 @@
 ---
 
 ### 📄 Rezyume və Əlaqə
-- 📥 **[Mənim CV-mi yüklə (PDF)](Orxan Mirzeyev CV.pdf)**
+- 📥 **[Mənim CV-mi yüklə (PDF)](https://github.com/Orxan299/Orxan299/raw/main/Orxan%20Mirzeyev%20CV.pdf)**
 - 💼 **[LinkedIn Profilim](www.linkedin.com/in/orxan-mirzəyev-a3033437a)**
 - 📧 **Email:** orxanm509@sabah.edu.az
 
